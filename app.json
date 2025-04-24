@@ -1,5 +1,5 @@
 {
-    "name": "Drm Uploader By 🅱🅴🅰🆂🆃 👑",
+    "name": "Drm Uploader By W A C K Y 👑",
     "description": "DRM Uploader",
     "logo": "https://tinypic.host/image/Screenshot-2025-03-19-06-40-21-30.3gKoOw",
     "keywords": [
@@ -13,12 +13,12 @@
     "env": {
         "API_ID": {
             "description": "enter_your_api_id",
-            "value": "26468828",
+            "value": "2645474",
             "required": true
         },
         "API_HASH": {
             "description": "enter_your_api_harsh",
-            "value": "4693513c08d1ac6af15f95b116c29478",
+            "value": "6c9a5044d2f2c2350ac20b3838a7896e",
             "required": true
         },
         "BOT_TOKEN": {
